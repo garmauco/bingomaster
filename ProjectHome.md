@@ -1,0 +1,1 @@
+Bingo Master é um sistema de geração e conferencia de cartelas de bingo do padrão 75 pedras no globo e 25 numeros na cartela.
